@@ -2,7 +2,7 @@
 
 <h1 align="center">📊 Stock Management Rest API</h1>
 
-<p align="center"><strong>📦 A modern backend solution that allows users to manage inventory 📦</strong></p>
+<p align="center"><strong>A modern backend solution that allows users to manage inventory</strong></p>
 
 
 <!-- <div align="center">
