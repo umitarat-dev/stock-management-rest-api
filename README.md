@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Stock Management Rest API</h1>
+<h1 align="center">📊 Stock Management Rest API</h1>
 
 <p align="center"><strong>📦 A modern backend solution that allows users to manage inventory 📦</strong></p>
 
